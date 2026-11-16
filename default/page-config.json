@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "servicio-logos.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Diseño de logotipos | Lynx Pardelle",
+    "description": "Explora un símbolo o tratamiento tipográfico que represente la personalidad de tu proyecto y pueda reconocerse en los espacios donde lo presentas.",
+    "canonical": "https://servicio-logos.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-servicio-audiovisual.webp"
+    }
+  }
+}
