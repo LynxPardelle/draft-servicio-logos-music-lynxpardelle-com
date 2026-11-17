@@ -7,12 +7,56 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Diseño de logotipos | Lynx Pardelle",
-    "description": "Explora un símbolo o tratamiento tipográfico que represente la personalidad de tu proyecto y pueda reconocerse en los espacios donde lo presentas.",
+    "title": "Diseño de logotipos para proyectos creativos | Lynx Pardelle",
+    "description": "Explora el símbolo, la tipografía y las proporciones del logotipo de tu proyecto. Define cómo debe reconocerse en las aplicaciones que más te importan.",
     "canonical": "https://servicio-logos.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-logos-r2-497ff4feb88f5199.webp",
+      "title": "Diseño de logotipos para proyectos creativos | Lynx Pardelle",
+      "description": "Explora el símbolo, la tipografía y las proporciones del logotipo de tu proyecto. Define cómo debe reconocerse en las aplicaciones que más te importan.",
+      "url": "https://servicio-logos.music.lynxpardelle.com/",
+      "imageAlt": "Bocetos de logotipos sobre una mesa de diseño."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Diseño de logotipos para proyectos creativos | Lynx Pardelle",
+      "description": "Explora el símbolo, la tipografía y las proporciones del logotipo de tu proyecto. Define cómo debe reconocerse en las aplicaciones que más te importan.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-logos-r2-497ff4feb88f5199.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://servicio-logos.music.lynxpardelle.com/#webpage",
+        "name": "Diseño de logotipos",
+        "description": "Explora el símbolo, la tipografía y las proporciones del logotipo de tu proyecto. Define cómo debe reconocerse en las aplicaciones que más te importan.",
+        "url": "https://servicio-logos.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Servicios",
+          "url": "https://music.lynxpardelle.com/servicios"
+        },
+        "mainEntity": {
+          "@id": "https://servicio-logos.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "@id": "https://servicio-logos.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Diseño de logotipos",
+        "description": "Explora el símbolo, la tipografía y las proporciones del logotipo de tu proyecto. Define cómo debe reconocerse en las aplicaciones que más te importan.",
+        "url": "https://servicio-logos.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-logos-r2-497ff4feb88f5199.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "serviceType": "Diseño de logotipos"
+      }
+    ]
   }
 }
